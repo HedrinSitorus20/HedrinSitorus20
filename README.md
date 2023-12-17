@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/hedrinsitorus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hedrinsitorus" height="30" width="40" /></a>
 <a href="https://instagram.com/hedrin.sitorus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hedrin.sitorus" height="30" width="40" /></a>
 <a href="https://medium.com/@deepdjango" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@deepdjango" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@sitorushedrin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sitorushedrin" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sitorushedrin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sitorushedrin" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sitorushedrin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sitorushedrin" height="30" width="40" /></a>
 </p>
 
